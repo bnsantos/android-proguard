@@ -14,6 +14,10 @@ Overall method count: 6690
 Removing parcelables (So far I'm not using any from framework neither other libs)
 Overall method count: 6690
 
+https://guides.codepath.com/android/Configuring-ProGuard
+
+https://docs.fabric.io/android/crashlytics/dex-and-proguard.html
+
 References
 <br>[Android Docs](https://developer.android.com/studio/build/shrink-code.html)
 <br>[Dex Methods count tool](https://github.com/mihaip/dex-method-counts)
